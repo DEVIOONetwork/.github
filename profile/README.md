@@ -3,10 +3,10 @@
 
 - 🔭 Go checkout our [website](https://devioo.com)
 
-- 📘 Don't forget to visit us in our [Discord](https://discord.gg/tCbaYMcExK)
+- 📘 Don't forget to visit us in our [Discord](https://discord.devioo.com)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/studiodevioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter-com/studiodevioo" height="30" width="40" /></a>
-<a href="https://discord.gg/tCbaYMcExK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tCbaYMcExK" height="30" width="40" /></a>
+<a href="https://discord.devioo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tCbaYMcExK" height="30" width="40" /></a>
 </p>
