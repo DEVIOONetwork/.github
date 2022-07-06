@@ -7,6 +7,6 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://twitter.com/studiodevioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter-com/studiodevioo" height="30" width="40" /></a>
+<a href="https://twitter.com/devioonetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter-com/devioonetwork" height="30" width="40" /></a>
 <a href="https://discord.devioo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tCbaYMcExK" height="30" width="40" /></a>
 </p>
